@@ -18,7 +18,6 @@ time, mark, audio, video {
 	font: inherit;
 	vertical-align: baseline;
 }
-/* HTML5 display-role reset for older browsers */
 article, aside, details, figcaption, figure, 
 footer, header, hgroup, menu, nav, section {
 	display: block;
@@ -40,4 +39,24 @@ q:before, q:after {
 table {
 	border-collapse: collapse;
 	border-spacing: 0;
+}
+
+/* Font Import */
+@import url('https://fonts.googleapis.com/css2?family=Linden+Hill:ital@1&display=swap');
+
+/* General Styles */
+body {
+  height: 100vh;
+  background: radial-gradient(#35577D, #141E30);
+}
+
+#app {
+  text-align: center;
+}
+
+#app h1 {
+  font-size: 4rem;
+  color: rgb(255, 208, 0);
+  font-family: "Linden Hill", serif;
+  margin-top: 2rem;
 }
