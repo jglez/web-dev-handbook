@@ -42,21 +42,54 @@ table {
 }
 
 /* Font Import */
-@import url('https://fonts.googleapis.com/css2?family=Linden+Hill:ital@1&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Syne+Mono&display=swap');
 
 /* General Styles */
 body {
   height: 100vh;
   background: radial-gradient(#35577D, #141E30);
+  font-family: 'Syne Mono', monospace;
 }
 
 #app {
-  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
 }
 
 #app h1 {
-  font-size: 4rem;
-  color: rgb(255, 208, 0);
-  font-family: "Linden Hill", serif;
-  margin-top: 2rem;
+  font-size: 4.5rem;
+  margin-top: 1rem;
+  margin-bottom: 2rem;
+  color: #fff5f6;
+  text-shadow:
+  0 0 1px #ff66d4,
+  0 0 2px #ff66d4,
+  0 0 50px #ff66d4,
+  0 0 10px #ff66d4;
+}
+
+#topics-container {
+  width: 610px;
+  gap: 10px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  margin-bottom: 2rem;
+}
+
+.topic {
+  height: 300px;
+  width: 300px;
+  display: grid;
+  place-items: center;
+  font-size: 3rem;
+  color: #fff5f6;
+  background: #2a2039;
+  border-radius: 15px;
+  text-shadow:
+    0 0 1px #ff66d4,
+    0 0 2px #ff66d4,
+    0 0 50px #ff66d4,
+    0 0 10px #ff66d4;
 }
