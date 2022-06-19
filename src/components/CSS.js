@@ -7,12 +7,52 @@ function CSS() {
       <ul className="resources-list">
         <li>
           <i class="fa-solid fa-angle-right"></i>
-          <a href="https://www.w3schools.com/colors/colors_picker.asp" target="_blank" rel="noreferrer">Color Picker</a>
+          <a href="https://www.w3schools.com/colors/colors_picker.asp" target="_blank" rel="noreferrer">W3Schools - Color Picker</a>
         </li>
 
         <li>
           <i class="fa-solid fa-angle-right"></i>
-          <a href="https://css-tricks.com/snippets/css/a-guide-to-flexbox/" target="_blank" rel="noreferrer">Flexbox Visual Guide</a>
+          <a href="https://css-tricks.com/snippets/css/a-guide-to-flexbox/" target="_blank" rel="noreferrer">CSS-Tricks - Flexbox Visual Guide</a>
+        </li>
+
+        <li>
+          <i class="fa-solid fa-angle-right"></i>
+          <a href="https://coolors.co/" target="_blank" rel="noreferrer">Coolors - Color Palette/Scheme Generator</a>
+        </li>
+
+        <li>
+          <i class="fa-solid fa-angle-right"></i>
+          <a href="https://html-css-js.com/css/generator/box-shadow/" target="_blank" rel="noreferrer">Box-Shadow CSS Generator</a>
+        </li>
+
+        <li>
+          <i class="fa-solid fa-angle-right"></i>
+          <a href="https://cssgradient.io/" target="_blank" rel="noreferrer">Gradient CSS Generator</a>
+        </li>
+
+        <li>
+          <i class="fa-solid fa-angle-right"></i>
+          <a href="https://getcssscan.com/css-box-shadow-examples" target="_blank" rel="noreferrer">CSS Scan - Beautiful CSS box-shadow Examples</a>
+        </li>
+
+        <li>
+          <i class="fa-solid fa-angle-right"></i>
+          <a href="https://www.shapedivider.app/" target="_blank" rel="noreferrer">Custom Shape Dividers Generator</a>
+        </li>
+
+        <li>
+          <i class="fa-solid fa-angle-right"></i>
+          <a href="https://app.haikei.app/" target="_blank" rel="noreferrer">Abstract CSS Pattern Generator</a>
+        </li>
+
+        <li>
+          <i class="fa-solid fa-angle-right"></i>
+          <a href="https://cssgrid-generator.netlify.app/" target="_blank" rel="noreferrer">CSS Grid Generator</a>
+        </li>
+
+        <li>
+          <i class="fa-solid fa-angle-right"></i>
+          <a href="https://automattic.github.io/juice/" target="_blank" rel="noreferrer">Juice - Inline CSS Converter</a>
         </li>
       </ul>
 
