@@ -7,12 +7,12 @@ function CSS() {
       <ul className="resources-list">
         <li>
           <i class="fa-solid fa-angle-right"></i>
-          <a href="https://www.w3schools.com/colors/colors_picker.asp" target="_blank">Color Picker</a>
+          <a href="https://www.w3schools.com/colors/colors_picker.asp" target="_blank" rel="noreferrer">Color Picker</a>
         </li>
 
         <li>
           <i class="fa-solid fa-angle-right"></i>
-          <a href="https://css-tricks.com/snippets/css/a-guide-to-flexbox/" target="_blank">Flexbox Visual Guide</a>
+          <a href="https://css-tricks.com/snippets/css/a-guide-to-flexbox/" target="_blank" rel="noreferrer">Flexbox Visual Guide</a>
         </li>
       </ul>
 
