@@ -43,6 +43,7 @@ table {
 
 /* Font Import */
 @import url('https://fonts.googleapis.com/css2?family=Syne+Mono&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=DotGothic16&display=swap');
 
 /* General Styles */
 body {
@@ -57,9 +58,30 @@ body {
   align-items: center;
 }
 
+header {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+#back-arrow {
+  cursor: pointer;
+  font-size: 5rem;
+  color: #fff;
+  text-shadow: 0 0 10px #fff, 0 0 20px #fff, 0 0 30px #e60073, 0 0 10px #e60073, 0 0 50px #e60073, 0 0 60px #e60073, 0 0 0 #e60073;
+  font-family: 'DotGothic16', sans-serif;
+  position: relative;
+  right: 110px;
+}
+
+#back-nav {
+  text-decoration: none;
+}
+
+
 #app h1 {
   font-size: 4.5rem;
-  margin-top: 1rem;
+  margin-top: 2rem;
   margin-bottom: 2rem;
   color: #fff5f6;
   text-shadow:
@@ -92,4 +114,44 @@ body {
     0 0 2px #ff66d4,
     0 0 50px #ff66d4,
     0 0 10px #ff66d4;
+}
+
+.topic-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 900px;
+}
+
+.topic-heading {
+  font-size: 3rem;
+  color: white;
+  text-shadow:
+  0 0 1px #ff66d4,
+  0 0 2px #ff66d4,
+  0 0 50px #ff66d4,
+  0 0 10px #ff66d4;
+  margin-bottom: 1rem;
+}
+
+.resources-list li {
+  display: flex;
+  margin-bottom: 10px;
+}
+
+.resources-list i {
+  font-size: 2rem;
+  color: #fff;
+  text-shadow: 0 0 10px #ff66d4, 0 0 20px #ff66d4, 0 0 30px #e60073, 0 0 40px #e60073, 0 0 50px #e60073, 0 0 60px #e60073, 0 0 70px #e60073;
+  margin-right: 15px;
+}
+
+.resources-list a {
+  font-size: 2rem;
+  color: white;
+  text-shadow:
+  0 0 1px #ff66d4,
+  0 0 2px #ff66d4,
+  0 0 50px #ff66d4,
+  0 0 10px #ff66d4;
 }
