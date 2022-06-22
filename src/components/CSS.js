@@ -54,6 +54,21 @@ function CSS() {
           <i class="fa-solid fa-angle-right"></i>
           <a href="https://automattic.github.io/juice/" target="_blank" rel="noreferrer">Juice - Inline CSS Converter</a>
         </li>
+
+        <li>
+          <i class="fa-solid fa-angle-right"></i>
+          <a href="https://flexboxfroggy.com/" target="_blank" rel="noreferrer">Flexbox Froggy - Learn Flexbox via games!</a>
+        </li>
+
+        <li>
+          <i class="fa-solid fa-angle-right"></i>
+          <a href="http://www.flexboxdefense.com/" target="_blank" rel="noreferrer">Flexbox Defense - Learn Flexbox via games!</a>
+        </li>
+
+        <li>
+          <i class="fa-solid fa-angle-right"></i>
+          <a href="https://cssbattle.dev/" target="_blank" rel="noreferrer">CSSBattle - CSS Coding Challenges</a>
+        </li>
       </ul>
 
     </div>
