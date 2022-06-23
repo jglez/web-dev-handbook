@@ -7,6 +7,11 @@ function CSS() {
       <ul className="resources-list">
         <li>
           <i class="fa-solid fa-angle-right"></i>
+          <a href="https://developer.mozilla.org/en-US/docs/Learn/CSS" target="_blank" rel="noreferrer">MDN - CSS Guides</a>
+        </li>
+
+        <li>
+          <i class="fa-solid fa-angle-right"></i>
           <a href="https://www.w3schools.com/colors/colors_picker.asp" target="_blank" rel="noreferrer">W3Schools - Color Picker</a>
         </li>
 
@@ -68,6 +73,16 @@ function CSS() {
         <li>
           <i class="fa-solid fa-angle-right"></i>
           <a href="https://cssbattle.dev/" target="_blank" rel="noreferrer">CSSBattle - CSS Coding Challenges</a>
+        </li>
+
+        <li>
+          <i class="fa-solid fa-angle-right"></i>
+          <a href="https://www.codecademy.com/learn/learn-css" target="_blank" rel="noreferrer">Codecademy - Free Course</a>
+        </li>
+
+        <li>
+          <i class="fa-solid fa-angle-right"></i>
+          <a href="https://www.codecademy.com/resources/docs/css" target="_blank" rel="noreferrer">Codecademy - CSS Documentation</a>
         </li>
       </ul>
 

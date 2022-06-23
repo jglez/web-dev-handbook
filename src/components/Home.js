@@ -7,7 +7,6 @@ function Home() {
         <Link className="topic" to="/html">HTML</Link>
         <Link className="topic" to="/css">CSS</Link>
         <Link className="topic" to="/javascript">JavaScript</Link>
-        <Link className="topic" to="/react">React</Link>
       </nav>
     </>
   )

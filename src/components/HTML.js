@@ -32,7 +32,7 @@ function HTML() {
 
         <li>
           <i class="fa-solid fa-angle-right"></i>
-          <a href="https://www.codecademy.com/resources/docs/html" target="_blank" rel="noreferrer">Codecademy - Documentation</a>
+          <a href="https://www.codecademy.com/resources/docs/html" target="_blank" rel="noreferrer">Codecademy - HTML Documentation</a>
         </li>
 
         <li>
