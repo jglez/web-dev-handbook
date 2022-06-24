@@ -139,6 +139,11 @@ header {
   margin-bottom: 1rem;
 }
 
+h3.topic-heading {
+  text-align: center;
+  font-size: 2.7rem;
+}
+
 .resources-list li {
   display: flex;
   margin-bottom: 20px;

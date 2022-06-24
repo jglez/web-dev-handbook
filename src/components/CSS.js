@@ -17,11 +17,6 @@ function CSS() {
 
         <li>
           <i class="fa-solid fa-angle-right"></i>
-          <a href="https://css-tricks.com/snippets/css/a-guide-to-flexbox/" target="_blank" rel="noreferrer">CSS-Tricks - Flexbox Visual Guide</a>
-        </li>
-
-        <li>
-          <i class="fa-solid fa-angle-right"></i>
           <a href="https://coolors.co/" target="_blank" rel="noreferrer">Coolors - Color Palette/Scheme Generator</a>
         </li>
 
@@ -62,16 +57,6 @@ function CSS() {
 
         <li>
           <i class="fa-solid fa-angle-right"></i>
-          <a href="https://flexboxfroggy.com/" target="_blank" rel="noreferrer">Flexbox Froggy - Learn Flexbox via games!</a>
-        </li>
-
-        <li>
-          <i class="fa-solid fa-angle-right"></i>
-          <a href="http://www.flexboxdefense.com/" target="_blank" rel="noreferrer">Flexbox Defense - Learn Flexbox via games!</a>
-        </li>
-
-        <li>
-          <i class="fa-solid fa-angle-right"></i>
           <a href="https://cssbattle.dev/" target="_blank" rel="noreferrer">CSSBattle - CSS Coding Challenges</a>
         </li>
 
@@ -83,6 +68,23 @@ function CSS() {
         <li>
           <i class="fa-solid fa-angle-right"></i>
           <a href="https://www.codecademy.com/resources/docs/css" target="_blank" rel="noreferrer">Codecademy - CSS Documentation</a>
+        </li>
+
+        <h3 className="topic-heading">Flexbox</h3>
+
+        <li>
+          <i class="fa-solid fa-angle-right"></i>
+          <a href="https://flexboxfroggy.com/" target="_blank" rel="noreferrer">Flexbox Froggy - Learn Flexbox via games!</a>
+        </li>
+
+        <li>
+          <i class="fa-solid fa-angle-right"></i>
+          <a href="http://www.flexboxdefense.com/" target="_blank" rel="noreferrer">Flexbox Defense - Learn Flexbox via games!</a>
+        </li>
+
+        <li>
+          <i class="fa-solid fa-angle-right"></i>
+          <a href="https://css-tricks.com/snippets/css/a-guide-to-flexbox/" target="_blank" rel="noreferrer">CSS-Tricks - Flexbox Visual Guide</a>
         </li>
       </ul>
 
