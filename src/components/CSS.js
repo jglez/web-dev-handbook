@@ -37,6 +37,11 @@ function CSS() {
 
         <li>
           <i class="fa-solid fa-angle-right"></i>
+          <a href="https://codepen.io/jglez/pen/ExQqOmz" target="_blank" rel="noreferrer">Border Style Examples</a>
+        </li>
+
+        <li>
+          <i class="fa-solid fa-angle-right"></i>
           <a href="https://www.shapedivider.app/" target="_blank" rel="noreferrer">Custom Shape Dividers Generator</a>
         </li>
 
