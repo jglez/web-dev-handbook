@@ -99,6 +99,18 @@ function CSS() {
           <a href="https://css-tricks.com/snippets/css/complete-guide-grid/" target="_blank" rel="noreferrer">CSS Tricks - A Complete Guide to Grid</a>
         </li>
 
+        <h3 className="topic-heading">CSS Reset</h3>
+
+        <li>
+          <i class="fa-solid fa-angle-right"></i>
+          <a href="https://meyerweb.com/eric/tools/css/reset/" target="_blank" rel="noreferrer">Myer's Reset</a>
+        </li>
+
+        <li>
+          <i class="fa-solid fa-angle-right"></i>
+          <a href="https://necolas.github.io/normalize.css/" target="_blank" rel="noreferrer">Normalize.css</a>
+        </li>
+
       </ul>
 
     </div>
