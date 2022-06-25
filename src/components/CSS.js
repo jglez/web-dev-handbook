@@ -110,7 +110,11 @@ function CSS() {
           <i class="fa-solid fa-angle-right"></i>
           <a href="https://necolas.github.io/normalize.css/" target="_blank" rel="noreferrer">Normalize.css</a>
         </li>
-
+        
+        <li>
+          <i class="fa-solid fa-angle-right"></i>
+          <a href="https://piccalil.li/blog/a-modern-css-reset/" target="_blank" rel="noreferrer">Modern Reset</a>
+        </li>
       </ul>
 
     </div>
