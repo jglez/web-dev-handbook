@@ -47,11 +47,6 @@ function CSS() {
 
         <li>
           <i class="fa-solid fa-angle-right"></i>
-          <a href="https://cssgrid-generator.netlify.app/" target="_blank" rel="noreferrer">CSS Grid Generator</a>
-        </li>
-
-        <li>
-          <i class="fa-solid fa-angle-right"></i>
           <a href="https://automattic.github.io/juice/" target="_blank" rel="noreferrer">Juice - Inline CSS Converter</a>
         </li>
 
@@ -74,18 +69,36 @@ function CSS() {
 
         <li>
           <i class="fa-solid fa-angle-right"></i>
-          <a href="https://flexboxfroggy.com/" target="_blank" rel="noreferrer">Flexbox Froggy - Learn Flexbox via games!</a>
+          <a href="https://flexboxfroggy.com/" target="_blank" rel="noreferrer">Flexbox Froggy - Make learning Flexbox fun!</a>
         </li>
 
         <li>
           <i class="fa-solid fa-angle-right"></i>
-          <a href="http://www.flexboxdefense.com/" target="_blank" rel="noreferrer">Flexbox Defense - Learn Flexbox via games!</a>
+          <a href="http://www.flexboxdefense.com/" target="_blank" rel="noreferrer">Flexbox Defense - Make learning Flexbox fun!</a>
         </li>
 
         <li>
           <i class="fa-solid fa-angle-right"></i>
           <a href="https://css-tricks.com/snippets/css/a-guide-to-flexbox/" target="_blank" rel="noreferrer">CSS-Tricks - Flexbox Visual Guide</a>
         </li>
+
+        <h3 className="topic-heading">Grid</h3>
+
+        <li>
+          <i class="fa-solid fa-angle-right"></i>
+          <a href="https://cssgrid-generator.netlify.app/" target="_blank" rel="noreferrer">CSS Grid Generator</a>
+        </li>
+
+        <li>
+          <i class="fa-solid fa-angle-right"></i>
+          <a href="https://cssgridgarden.com/" target="_blank" rel="noreferrer">Grid Garden - Make learning Grid fun!</a>
+        </li>
+
+        <li>
+          <i class="fa-solid fa-angle-right"></i>
+          <a href="https://css-tricks.com/snippets/css/complete-guide-grid/" target="_blank" rel="noreferrer">CSS Tricks - A Complete Guide to Grid</a>
+        </li>
+
       </ul>
 
     </div>
