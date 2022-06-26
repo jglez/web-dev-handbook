@@ -168,6 +168,9 @@ h3.topic-heading {
 
 /* Media Query */
 @media screen and (max-width: 500px) {
+  #app header h1 {
+    width: 100vw;
+  }
   #topics-container {
     display: flex;
     flex-direction: column;
