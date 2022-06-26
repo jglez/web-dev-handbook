@@ -165,3 +165,12 @@ h3.topic-heading {
   0 0 50px #ff66d4,
   0 0 10px #ff66d4;
 }
+
+/* Media Query */
+@media screen and (max-width: 500px) {
+  #topics-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+}
